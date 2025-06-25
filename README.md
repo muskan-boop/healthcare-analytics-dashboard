@@ -14,5 +14,8 @@ This is a Power BI dashboard project created to analyze healthcare data includin
 - Microsoft Excel
 - SQL
 
+## 📸 Preview:
+![Dashboard Screenshot](dashboard.png)
+
 ## 👩‍💻 Author:
 **Abhipsa Dash**
